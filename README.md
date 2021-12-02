@@ -108,11 +108,15 @@ To view the IPQS Fraud and Risk Scoring Threat Lookup results on the Offense Sum
 In order to investigate, Double-click any Offense, where Offense Source is either Domain/IP Address/Email/URL/Phone, You will see the IPQS Fraud and Risk Scoring Reputation data in the tabular format.
 
 * **Domain Reputation Data**:
+** Images here..... **
 * **IP Address Reputation Data**:
+** Images here..... **
 * **Email Address Reputation Data**:
+** Images here..... **
 * **URL Reputation Data**:
+** Images here..... **
 * **Phone Number Reputation Data**:
-
+** Images here..... **
 
 ## 6. Manual Threat Hunting:
 ### Log Activity Investigation:
